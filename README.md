@@ -6,7 +6,7 @@ We are an IT consultancy company based in Belgium specialized in Networking, Mon
 
 # Networking
 
-We provide **"hands on" consultancy** as well as **Project Management** for all your network related projects.
+We provide "hands on" **consultancy** as well as **Project Management** for all your network related projects.
 
 * **Routing and Switching:** Specializing in Cisco based networks
 * **Datacenters:** QoS, Nexus, LoadBalancing, ISP connectivity
