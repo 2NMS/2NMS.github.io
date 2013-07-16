@@ -19,14 +19,20 @@ We offer **"hands on" consultancy** as well as **end-to-end Project Management**
 # Monitoring
 
 Monitoring your network is not an easy task!
-We can help you with the integration of your tools:
 
+### Integration
+
+We can help you with the integration of your monitoring environment:
+
+* set up unix based platforms to support all your tools and scripts
 * choosing the correct monitoring tools based on our experience and your requirements
 * planning, implementation and configuration of new or existing tools
 * configuration of alerting rules
 * configuration of your network devices
 * Implemenation of Cisco tools : ISE, ACS, NCS, UCS, etc
 
+
+### Remote NOC
 
 Furthermore we can do **remote monitoring** of your network from our NOC:
 
