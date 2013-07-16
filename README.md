@@ -18,9 +18,9 @@ We provide **"hands on" consultancy** as well as **Project Management** for all 
 
 # Monitoring
 
-Monitoring your network is not an easy task!
+Monitoring your network is not an easy task! We can help you with the implementation and configuration of your tools as well and we can take care of the monitoring of your IT infrastructure.
 
-### Integration
+#### Implementation and Configuration
 
 We can help you with the integration of your monitoring environment:
 
@@ -32,7 +32,7 @@ We can help you with the integration of your monitoring environment:
 * Implemenation of Cisco tools : ISE, ACS, NCS, UCS, etc
 
 
-### Remote NOC
+#### Remote NOC services
 
 Furthermore we can do **remote monitoring** of your network from our NOC:
 
@@ -54,7 +54,7 @@ Here's an overview of some of the popular OpenSource based projects we use:
 # Scripting
 
 Our scripting solutions are mostly related to automating your IT infrastructure. We are specializing in **Perl + Python** scripting.
-Check the [www.github.com/mwallraf](Github) for some of our freeware tools.
+Check the [Github pages](http://www.github.com/mwallraf) for some of our freeware tools.
 
 All our scripts are customized and delivered as easy (re-)installable packages including documentation.
 
@@ -71,7 +71,7 @@ Some examples:
 
 # Contact
 
-    **Email:** info @ 2nms.com
+**Email:** info @ 2nms.com
 
-    **Phone:** +32 473 89 18 42
+**Phone:** +32 473 89 18 42
 
